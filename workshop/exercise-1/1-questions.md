@@ -87,6 +87,10 @@ h1
 ## Q10 - In which situation can you use self closing tags?
 
 
+Definition - What does Self-Closing Tag mean?
+A self-closing tag is an element of HTML code that has evolved in the language. Typically, the self-closing tag makes use of a “/” character in order to effectively close out a beginning tag enclosed in sideways carets.
+
+https://www.techopedia.com/definition/31857/self-closing-tag#:~:text=Definition%20%2D%20What%20does%20Self%2DClosing,tag%20enclosed%20in%20sideways%20carets.
 
 
 ## Q11 - What is autofilling and why is it important?
@@ -96,9 +100,8 @@ It is when the browser auto-populates input fields. This is a convenience.
 
 ## Q12 - Which attributes are always present in an img element?
 
-- `src=""`
-- `alt=""`
+src and alt
 
 ## Q13 - Which attribute is always present for an anchor tag?
 
-- `href=""`
+href
